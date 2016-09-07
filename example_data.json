@@ -1,0 +1,119 @@
+{
+	"players": {
+		"0": {
+			"score": 54,
+			"id": 0,
+			"alive": false,
+			"quality": 1,
+			"path": "ruby ./bots/bully.rb",
+			"name": "bully"
+		},
+		"1": {
+			"score": 28,
+			"id": 1,
+			"alive": false,
+			"quality": 2,
+			"path": "python ./bots/mope.py",
+			"name": "mope"
+		},
+		"2": {
+			"score": 125,
+			"id": 2,
+			"alive": false,
+			"quality": 3,
+			"path": "ruby ./bots/bully.rb",
+			"name": "bully"
+		},
+		"3": {
+			"score": 79,
+			"id": 3,
+			"alive": false,
+			"quality": 4,
+			"path": "node ./bots/scrub.js",
+			"name": "scrub"
+		},
+		"4": {
+			"score": 115,
+			"id": 4,
+			"alive": false,
+			"quality": 5,
+			"path": "python ./bots/rando.py",
+			"name": "rando"
+		},
+		"5": {
+			"score": 100,
+			"id": 5,
+			"alive": false,
+			"quality": 6,
+			"path": "python ./bots/rando.py",
+			"name": "rando"
+		},
+		"6": {
+			"score": 140,
+			"id": 6,
+			"alive": true,
+			"quality": 7,
+			"path": "node ./bots/scrub.js",
+			"name": "scrub"
+		},
+		"7": {
+			"score": 0,
+			"id": 7,
+			"alive": false,
+			"quality": 8,
+			"path": "python ./bots/mope.py",
+			"name": "mope"
+		}
+	},
+	"log": [
+		{
+			"0": 1,
+			"1": 1,
+			"2": 0,
+			"3": 7,
+			"4": 6,
+			"5": 3,
+			"6": 7,
+			"7": 7
+		},
+		{
+			"0": 1,
+			"1": 1,
+			"2": 0,
+			"3": 6,
+			"4": 1,
+			"5": 2,
+			"6": 5
+		},
+		{
+			"0": 2,
+			"2": 0,
+			"3": 6,
+			"4": 0,
+			"5": 4,
+			"6": 5
+		},
+		{
+			"2": 3,
+			"3": 6,
+			"4": 6,
+			"5": 3,
+			"6": 5
+		},
+		{
+			"2": 4,
+			"4": 5,
+			"5": 6,
+			"6": 5
+		},
+		{
+			"2": 4,
+			"4": 6,
+			"6": 4
+		},
+		{
+			"2": 6,
+			"6": 2
+		}
+	]
+}
